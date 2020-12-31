@@ -11,7 +11,7 @@ function setup() {
   bullet.shapeColor="white";
 
   wall=createSprite(1300,200,thickness,height/2);
-  wall.shapeColour="white";
+  wall.shapeColor="white";
 
   speed=random(233,321);
   weight=random(30,52);
